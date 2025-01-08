@@ -26,9 +26,9 @@ public class Paquete implements Serializable {
     private String remitente;
     private String descripcion;
     private String estado;
-    private Integer precio;
+    private Float precio;
     private Double peso;
-    private Integer costoDeEnvio;
+    private Float costoDeEnvio;
     private String direccionDeEnvio;
 
 }

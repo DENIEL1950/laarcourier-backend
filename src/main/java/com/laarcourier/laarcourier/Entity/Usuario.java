@@ -23,11 +23,11 @@ public class Usuario implements Serializable {
     private Integer id;
     private String nombres;
     private String apellidos;
-    private Integer cedula;
+    private String cedula;
     private String nombreUsuario;
     private String direccion;
-    private Integer codigoPostal;
-    private Integer telefono;
+    private String codigoPostal;
+    private String telefono;
     private String email;
     private String password;
     private String pais;
